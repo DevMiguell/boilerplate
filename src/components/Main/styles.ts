@@ -20,6 +20,7 @@ export const Logo = styled.img`
 
 export const Title = styled.h1`
   font-size: 2.5rem;
+  margin-bottom: 1rem;
 `
 
 export const Description = styled.h2`

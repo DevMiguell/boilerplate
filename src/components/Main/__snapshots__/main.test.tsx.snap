@@ -32,6 +32,7 @@ exports[`<Main /> should render the heading 1`] = `
 
 .c2 {
   font-size: 2.5rem;
+  margin-bottom: 1rem;
 }
 
 .c3 {
@@ -48,7 +49,7 @@ exports[`<Main /> should render the heading 1`] = `
   class="c0"
 >
   <img
-    alt="Imagem de um átomo e React avançado ao lado"
+    alt="Imagem de um átomo e React Avançado escrito ao lado."
     class="c1"
     src="/img/logo.svg"
   />
@@ -60,7 +61,7 @@ exports[`<Main /> should render the heading 1`] = `
   <h2
     class="c3"
   >
-    TypesCript, ReactJs, NextJs, Styled Components
+    TypeScript, ReactJS, NextJS e Styled Components
   </h2>
   <img
     alt="Um desenvolvedor de frente para uma tela com código."

@@ -7,8 +7,13 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <link rel="shortcut icon" href="img/icon-512.png" type="image/png" />
-        <link rel="apple-touch-icon" href="img/icon-512.png" type="image/png" />
+        <link rel="shortcut icon" href="/img/icon-512.png" type="image/png" />
+        <link
+          rel="apple-touch-icon"
+          href="/img/icon-512.png"
+          type="image/png"
+        />
+        <link rel="manifest" href="/manifest.json" />
         <title>React Avançado - Boilerplate</title>
         <meta
           name="description"
